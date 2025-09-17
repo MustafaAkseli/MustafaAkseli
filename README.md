@@ -1,2 +1,3 @@
-Bilkent University / Computer Science
+Bilkent University / Computer Science 
+3rd Year Student
 
